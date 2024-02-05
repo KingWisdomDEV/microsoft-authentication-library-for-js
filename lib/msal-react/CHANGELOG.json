@@ -2,6 +2,35 @@
   "name": "@azure/msal-react",
   "entries": [
     {
+      "date": "Mon, 05 Feb 2024 02:21:37 GMT",
+      "version": "2.0.11",
+      "tag": "@azure/msal-react_v2.0.11",
+      "comments": {
+        "none": [
+          {
+            "author": "hemoral@microsoft.com",
+            "package": "@azure/msal-react",
+            "commit": "4ae89fa25dd1bdb934cdaa7e4e98dccf5415bea8",
+            "comment": "Update shared config version references to use local files #6855"
+          }
+        ],
+        "patch": [
+          {
+            "author": "beachball",
+            "package": "@azure/msal-react",
+            "comment": "Bump @azure/msal-browser to v3.8.0",
+            "commit": "not available"
+          },
+          {
+            "author": "beachball",
+            "package": "@azure/msal-react",
+            "comment": "Bump eslint-config-msal to v0.0.0",
+            "commit": "not available"
+          }
+        ]
+      }
+    },
+    {
       "date": "Tue, 23 Jan 2024 00:06:05 GMT",
       "version": "2.0.10",
       "tag": "@azure/msal-react_v2.0.10",
